@@ -1,3 +1,4 @@
+#szorgalmi_002.py
 #Készíts egy programot, amely a felhasználótól két külön kérdésben megkérdezi, hogy az ikrek (Henrik és Hanna) jönnek-e ma kosrazni! Például így: Jön Henrik ma kosarazni? (igen/nem). A program írja ki, hogy melyik állítás igaz az alábbiak közül:
 #- egyikük sem jön kosarazni,
 #- mind a ketten jönnek kosarazni,
