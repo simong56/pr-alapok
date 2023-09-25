@@ -1,3 +1,4 @@
+#szorgalmi_001.py
 #Készíts egy programot, amely a felhasználótól bekér egy egész számot, majd megvizsgálja, hogy a megadott szám
 #- pozitív páros vagy
 #- negatív páratlan.
